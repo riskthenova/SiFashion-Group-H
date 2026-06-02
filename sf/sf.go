@@ -778,7 +778,7 @@ func MenuUtama() {
 func main() {
 	fmt.Println()
 	Garis()
-	fmt.Println("          Selamat Datang di SiFashion v1.0")
+	fmt.Println("           Selamat Datang di SiFashion")
 	fmt.Println("     Sistem Manajemen Inventaris Produk Fashion")
 
 	jalan := true
